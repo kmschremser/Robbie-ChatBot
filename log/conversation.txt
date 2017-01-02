@@ -1,0 +1,11 @@
+[2017-01-01 22:29:02] - Hello - I wish you a great night. Type "HELP" for some hints. How are you doing?  - 1351253108259213
+[2017-01-01 22:29:42] - Helloa - We already greeted.  - 1351253108259213
+[2017-01-01 22:29:48] - reset profile - Session will be destroyed and profile reset.  - 1351253108259213
+[2017-01-01 22:29:54] - Hello - I wish you a great night. Type "HELP" for some hints. How are you doing?  - 1351253108259213
+[2017-01-01 22:30:55] - Hello - Hello again.  - 1351253108259213
+[2017-01-01 22:31:01] - reset profile - Session will be destroyed and profile reset.  - 1351253108259213
+[2017-01-01 22:31:04] - hello - I wish you a great night. Type 'HELP' for some hints. How are you doing?  - 1351253108259213
+[2017-01-01 22:32:44] - HELP - You can talk with my about the following topics: - your name/my name, how you are and how I am, email, birthday, weather, location, time, date, search for topic, 'reset profile', 'show my profile'  - 1351253108259213
+[2017-01-01 22:32:52] - What's my name=? - I'm sorry. You didn't tell me or I forgot it :(.  - 1351253108259213
+[2017-01-01 22:32:58] - Klaus-M. - I have absolutely no idea what you're talking about. I feel like a Intel 386 :(.  - 1351253108259213
+[2017-01-01 22:33:06] - My name is Klaus-M. - Great to meet you, KLAUS-M  - 1351253108259213

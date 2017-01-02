@@ -1,0 +1,319 @@
+[2017-01-01 22:29:01] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:29:02] -  0 - HELLO---- reset profile next - for-each
+[2017-01-01 22:29:02] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:29:02] -  0 ----- saluation next - for-each
+[2017-01-01 22:29:02] - getSession already_greeted = ||| - session
+[2017-01-01 22:29:02] - setSession already_greeted = |done| - session
+[2017-01-01 22:29:02] - getSession already_toldname = ||| - session
+[2017-01-01 22:29:02] - setSession already_toldname = |done| - session
+[2017-01-01 22:29:02] - getSession already_toldname = ||done| - session
+[2017-01-01 22:29:02] - done - session
+[2017-01-01 22:29:02] - getSession already_asked_howfeels = ||| - session
+[2017-01-01 22:29:02] - setSession already_asked_howfeels = |done| - session
+[2017-01-01 22:29:02] -  0 ----- feeling user next - for-each
+[2017-01-01 22:29:02] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:29:02] -  0 ----- name next - for-each
+[2017-01-01 22:29:02] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:29:02] -  - askyourname session
+[2017-01-01 22:29:02] - getSession jump_name_question = ||| - session
+[2017-01-01 22:29:02] - getSession yourname_answered = ||| - session
+[2017-01-01 22:29:02] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:29:02] -  0 ----- email next - for-each
+[2017-01-01 22:29:02] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:29:02] -  0 ----- age next - for-each
+[2017-01-01 22:29:02] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:29:02] -  0 ----- time next - for-each
+[2017-01-01 22:29:02] -  0 ----- date next - for-each
+[2017-01-01 22:29:02] -  0 ----- weather next - for-each
+[2017-01-01 22:29:02] -  0 ----- location next - for-each
+[2017-01-01 22:29:02] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:29:02] -  0 ----- likes next - for-each
+[2017-01-01 22:29:02] -  0 ----- topic next - for-each
+[2017-01-01 22:29:02] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:29:02] -  0 ----- topic next - for-each
+[2017-01-01 22:29:02] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:29:02] -  0 ----- everything else next - for-each
+[2017-01-01 22:29:02] -  0 ----- profile next - for-each
+[2017-01-01 22:29:02] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:29:02] - I wish you a great night. Type "HELP" for some hints. How are you doing?  - answers
+[2017-01-01 22:29:41] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:29:42] -  0 - HELLOA---- reset profile next - for-each
+[2017-01-01 22:29:42] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:29:42] -  0 ----- saluation next - for-each
+[2017-01-01 22:29:42] - getSession already_greeted = ||done| - session
+[2017-01-01 22:29:42] - already greeted - salutation
+[2017-01-01 22:29:42] - getSession already_toldname = ||done| - session
+[2017-01-01 22:29:42] - getSession already_asked_howfeels = ||done| - session
+[2017-01-01 22:29:42] -  0 ----- feeling user next - for-each
+[2017-01-01 22:29:42] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:29:42] -  0 ----- name next - for-each
+[2017-01-01 22:29:42] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:29:42] -  - askyourname session
+[2017-01-01 22:29:42] - getSession jump_name_question = ||| - session
+[2017-01-01 22:29:42] - getSession yourname_answered = ||| - session
+[2017-01-01 22:29:42] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:29:42] -  0 ----- email next - for-each
+[2017-01-01 22:29:42] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:29:42] -  0 ----- age next - for-each
+[2017-01-01 22:29:42] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:29:42] -  0 ----- time next - for-each
+[2017-01-01 22:29:42] -  0 ----- date next - for-each
+[2017-01-01 22:29:42] -  0 ----- weather next - for-each
+[2017-01-01 22:29:42] -  0 ----- location next - for-each
+[2017-01-01 22:29:42] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:29:42] -  0 ----- likes next - for-each
+[2017-01-01 22:29:42] -  0 ----- topic next - for-each
+[2017-01-01 22:29:42] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:29:42] -  0 ----- topic next - for-each
+[2017-01-01 22:29:42] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:29:42] -  0 ----- everything else next - for-each
+[2017-01-01 22:29:42] -  0 ----- profile next - for-each
+[2017-01-01 22:29:42] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:29:42] - We already greeted.  - answers
+[2017-01-01 22:29:47] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:29:47] -  0 - RESET PROFILE---- reset profile next - for-each
+[2017-01-01 22:29:47] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:29:47] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:29:47] - Session will be destroyed and profile reset.  - answers
+[2017-01-01 22:29:48] - delete profile - delete in session
+[2017-01-01 22:29:53] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:29:54] -  0 - HELLO---- reset profile next - for-each
+[2017-01-01 22:29:54] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:29:54] -  0 ----- saluation next - for-each
+[2017-01-01 22:29:54] - getSession already_greeted = ||| - session
+[2017-01-01 22:29:54] - setSession already_greeted = |done| - session
+[2017-01-01 22:29:54] - getSession already_toldname = ||| - session
+[2017-01-01 22:29:54] - setSession already_toldname = |done| - session
+[2017-01-01 22:29:54] - getSession already_toldname = ||done| - session
+[2017-01-01 22:29:54] - done - session
+[2017-01-01 22:29:54] - getSession already_asked_howfeels = ||| - session
+[2017-01-01 22:29:54] - setSession already_asked_howfeels = |done| - session
+[2017-01-01 22:29:54] -  0 ----- feeling user next - for-each
+[2017-01-01 22:29:54] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:29:54] -  0 ----- name next - for-each
+[2017-01-01 22:29:54] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:29:54] -  - askyourname session
+[2017-01-01 22:29:54] - getSession jump_name_question = ||| - session
+[2017-01-01 22:29:54] - getSession yourname_answered = ||| - session
+[2017-01-01 22:29:54] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:29:54] -  0 ----- email next - for-each
+[2017-01-01 22:29:54] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:29:54] -  0 ----- age next - for-each
+[2017-01-01 22:29:54] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:29:54] -  0 ----- time next - for-each
+[2017-01-01 22:29:54] -  0 ----- date next - for-each
+[2017-01-01 22:29:54] -  0 ----- weather next - for-each
+[2017-01-01 22:29:54] -  0 ----- location next - for-each
+[2017-01-01 22:29:54] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:29:54] -  0 ----- likes next - for-each
+[2017-01-01 22:29:54] -  0 ----- topic next - for-each
+[2017-01-01 22:29:54] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:29:54] -  0 ----- topic next - for-each
+[2017-01-01 22:29:54] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:29:54] -  0 ----- everything else next - for-each
+[2017-01-01 22:29:54] -  0 ----- profile next - for-each
+[2017-01-01 22:29:54] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:29:54] - I wish you a great night. Type "HELP" for some hints. How are you doing?  - answers
+[2017-01-01 22:30:54] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:30:55] -  0 - HELLO---- reset profile next - for-each
+[2017-01-01 22:30:55] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:30:55] -  0 ----- saluation next - for-each
+[2017-01-01 22:30:55] - getSession already_greeted = ||done| - session
+[2017-01-01 22:30:55] - already greeted - salutation
+[2017-01-01 22:30:55] - getSession already_toldname = ||done| - session
+[2017-01-01 22:30:55] - getSession already_asked_howfeels = ||done| - session
+[2017-01-01 22:30:55] -  0 ----- feeling user next - for-each
+[2017-01-01 22:30:55] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:30:55] -  0 ----- name next - for-each
+[2017-01-01 22:30:55] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:30:55] -  - askyourname session
+[2017-01-01 22:30:55] - getSession jump_name_question = ||| - session
+[2017-01-01 22:30:55] - getSession yourname_answered = ||| - session
+[2017-01-01 22:30:55] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:30:55] -  0 ----- email next - for-each
+[2017-01-01 22:30:55] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:30:55] -  0 ----- age next - for-each
+[2017-01-01 22:30:55] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:30:55] -  0 ----- time next - for-each
+[2017-01-01 22:30:55] -  0 ----- date next - for-each
+[2017-01-01 22:30:55] -  0 ----- weather next - for-each
+[2017-01-01 22:30:55] -  0 ----- location next - for-each
+[2017-01-01 22:30:55] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:30:55] -  0 ----- likes next - for-each
+[2017-01-01 22:30:55] -  0 ----- topic next - for-each
+[2017-01-01 22:30:55] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:30:55] -  0 ----- topic next - for-each
+[2017-01-01 22:30:55] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:30:55] -  0 ----- everything else next - for-each
+[2017-01-01 22:30:55] -  0 ----- profile next - for-each
+[2017-01-01 22:30:55] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:30:55] - Hello again.  - answers
+[2017-01-01 22:31:00] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:31:00] -  0 - RESET PROFILE---- reset profile next - for-each
+[2017-01-01 22:31:00] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:31:00] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:31:00] - Session will be destroyed and profile reset.  - answers
+[2017-01-01 22:31:01] - delete profile - delete in session
+[2017-01-01 22:31:02] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:31:03] -  0 - HELLO---- reset profile next - for-each
+[2017-01-01 22:31:03] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:31:03] -  0 ----- saluation next - for-each
+[2017-01-01 22:31:03] - getSession already_greeted = ||| - session
+[2017-01-01 22:31:03] - setSession already_greeted = |done| - session
+[2017-01-01 22:31:03] - getSession already_toldname = ||| - session
+[2017-01-01 22:31:03] - setSession already_toldname = |done| - session
+[2017-01-01 22:31:03] - getSession already_toldname = ||done| - session
+[2017-01-01 22:31:03] - done - session
+[2017-01-01 22:31:03] - getSession already_asked_howfeels = ||| - session
+[2017-01-01 22:31:03] - setSession already_asked_howfeels = |done| - session
+[2017-01-01 22:31:03] -  0 ----- feeling user next - for-each
+[2017-01-01 22:31:03] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:31:03] -  0 ----- name next - for-each
+[2017-01-01 22:31:03] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:31:03] -  - askyourname session
+[2017-01-01 22:31:03] - getSession jump_name_question = ||| - session
+[2017-01-01 22:31:03] - getSession yourname_answered = ||| - session
+[2017-01-01 22:31:03] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:31:03] -  0 ----- email next - for-each
+[2017-01-01 22:31:03] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:31:03] -  0 ----- age next - for-each
+[2017-01-01 22:31:03] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:31:03] -  0 ----- time next - for-each
+[2017-01-01 22:31:03] -  0 ----- date next - for-each
+[2017-01-01 22:31:03] -  0 ----- weather next - for-each
+[2017-01-01 22:31:03] -  0 ----- location next - for-each
+[2017-01-01 22:31:03] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:31:03] -  0 ----- likes next - for-each
+[2017-01-01 22:31:03] -  0 ----- topic next - for-each
+[2017-01-01 22:31:03] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:31:03] -  0 ----- topic next - for-each
+[2017-01-01 22:31:03] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:31:03] -  0 ----- everything else next - for-each
+[2017-01-01 22:31:03] -  0 ----- profile next - for-each
+[2017-01-01 22:31:03] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:31:03] - I wish you a great night. Type 'HELP' for some hints. How are you doing?  - answers
+[2017-01-01 22:32:44] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:32:44] -  0 - HELP---- reset profile next - for-each
+[2017-01-01 22:32:44] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:32:44] -  0 ----- saluation next - for-each
+[2017-01-01 22:32:44] -  0 ----- feeling user next - for-each
+[2017-01-01 22:32:44] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:32:44] -  0 ----- name next - for-each
+[2017-01-01 22:32:44] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:32:44] -  - askyourname session
+[2017-01-01 22:32:44] - getSession jump_name_question = ||| - session
+[2017-01-01 22:32:44] - getSession yourname_answered = ||| - session
+[2017-01-01 22:32:44] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:32:44] -  0 ----- email next - for-each
+[2017-01-01 22:32:44] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:32:44] -  0 ----- age next - for-each
+[2017-01-01 22:32:44] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:32:44] -  0 ----- time next - for-each
+[2017-01-01 22:32:44] -  0 ----- date next - for-each
+[2017-01-01 22:32:44] -  0 ----- weather next - for-each
+[2017-01-01 22:32:44] -  0 ----- location next - for-each
+[2017-01-01 22:32:44] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:32:44] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:32:44] -  0 ----- likes next - for-each
+[2017-01-01 22:32:44] -  0 ----- topic next - for-each
+[2017-01-01 22:32:44] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:32:44] -  0 ----- topic next - for-each
+[2017-01-01 22:32:44] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:32:44] -  0 ----- everything else next - for-each
+[2017-01-01 22:32:44] -  0 ----- profile next - for-each
+[2017-01-01 22:32:44] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:32:44] - You can talk with my about the following topics: - your name/my name, how you are and how I am, email, birthday, weather, location, time, date, search for topic, 'reset profile', 'show my profile'  - answers
+[2017-01-01 22:32:51] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:32:51] -  0 - WHAT IS MY NAME=?---- reset profile next - for-each
+[2017-01-01 22:32:51] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:32:51] -  0 ----- saluation next - for-each
+[2017-01-01 22:32:51] -  0 ----- feeling user next - for-each
+[2017-01-01 22:32:51] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:32:51] -  0 ----- name next - for-each
+[2017-01-01 22:32:51] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:32:51] -  - askyourname session
+[2017-01-01 22:32:51] - getSession jump_name_question = ||| - session
+[2017-01-01 22:32:51] - getSession yourname_answered = ||| - session
+[2017-01-01 22:32:51] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:32:51] -  0 ----- email next - for-each
+[2017-01-01 22:32:51] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:32:51] -  0 ----- age next - for-each
+[2017-01-01 22:32:51] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:32:51] -  0 ----- time next - for-each
+[2017-01-01 22:32:51] -  0 ----- date next - for-each
+[2017-01-01 22:32:51] -  0 ----- weather next - for-each
+[2017-01-01 22:32:51] -  0 ----- location next - for-each
+[2017-01-01 22:32:51] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:32:51] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:32:51] -  0 ----- likes next - for-each
+[2017-01-01 22:32:51] -  0 ----- topic next - for-each
+[2017-01-01 22:32:51] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:32:51] -  0 ----- topic next - for-each
+[2017-01-01 22:32:51] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:32:51] -  0 ----- everything else next - for-each
+[2017-01-01 22:32:51] -  0 ----- profile next - for-each
+[2017-01-01 22:32:51] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:32:51] - I'm sorry. You didn't tell me or I forgot it :(.  - answers
+[2017-01-01 22:32:57] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:32:57] -  0 - KLAUS-M.---- reset profile next - for-each
+[2017-01-01 22:32:57] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:32:57] -  0 ----- saluation next - for-each
+[2017-01-01 22:32:57] -  0 ----- feeling user next - for-each
+[2017-01-01 22:32:57] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:32:57] -  0 ----- name next - for-each
+[2017-01-01 22:32:57] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:32:57] -  - askyourname session
+[2017-01-01 22:32:57] - getSession jump_name_question = ||| - session
+[2017-01-01 22:32:57] - getSession yourname_answered = ||| - session
+[2017-01-01 22:32:57] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:32:57] -  0 ----- email next - for-each
+[2017-01-01 22:32:57] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:32:57] -  0 ----- age next - for-each
+[2017-01-01 22:32:57] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:32:57] -  0 ----- time next - for-each
+[2017-01-01 22:32:57] -  0 ----- date next - for-each
+[2017-01-01 22:32:57] -  0 ----- weather next - for-each
+[2017-01-01 22:32:57] -  0 ----- location next - for-each
+[2017-01-01 22:32:57] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:32:57] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:32:57] -  0 ----- likes next - for-each
+[2017-01-01 22:32:57] -  0 ----- topic next - for-each
+[2017-01-01 22:32:57] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:32:57] -  0 ----- topic next - for-each
+[2017-01-01 22:32:57] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:32:57] -  0 ----- everything else next - for-each
+[2017-01-01 22:32:57] -  0 ----- profile next - for-each
+[2017-01-01 22:32:57] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:32:57] - I have absolutely no idea what you're talking about. I feel like a Intel 386 :(.  - answers
+[2017-01-01 22:33:04] - ---------------------------------------------------------------- - --------------
+[2017-01-01 22:33:05] -  0 - MY NAME IS KLAUS-M.---- reset profile next - for-each
+[2017-01-01 22:33:05] - RESET PROFILE - topic 1351253108259213
+[2017-01-01 22:33:05] -  0 ----- saluation next - for-each
+[2017-01-01 22:33:05] -  0 ----- feeling user next - for-each
+[2017-01-01 22:33:05] -  0 ----- feeling bot next - for-each
+[2017-01-01 22:33:05] -  0 ----- name next - for-each
+[2017-01-01 22:33:05] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:33:05] -  - askyourname session
+[2017-01-01 22:33:05] - getSession jump_name_question = ||| - session
+[2017-01-01 22:33:05] - getSession yourname_answered = ||| - session
+[2017-01-01 22:33:05] - getSession already_askedyourname = ||| - session
+[2017-01-01 22:33:05] - KLAUS-M - 1351253108259213-name
+[2017-01-01 22:33:05] - setSession yourname_answered = |done| - session
+[2017-01-01 22:33:05] -  0 ----- email next - for-each
+[2017-01-01 22:33:05] - getSession already_askedyouremail = ||| - session
+[2017-01-01 22:33:05] -  0 ----- age next - for-each
+[2017-01-01 22:33:05] - getSession already_askedyourbirthday = ||| - session
+[2017-01-01 22:33:05] -  0 ----- time next - for-each
+[2017-01-01 22:33:05] -  0 ----- date next - for-each
+[2017-01-01 22:33:05] -  0 ----- weather next - for-each
+[2017-01-01 22:33:05] -  0 ----- location next - for-each
+[2017-01-01 22:33:05] - getSession already_askedforlocation = ||| - session
+[2017-01-01 22:33:05] -  0 ----- likes next - for-each
+[2017-01-01 22:33:05] -  0 ----- topic next - for-each
+[2017-01-01 22:33:05] - ASKTOPIC - topic 1351253108259213
+[2017-01-01 22:33:05] -  0 ----- topic next - for-each
+[2017-01-01 22:33:05] - ASKSEARCH - topic 1351253108259213
+[2017-01-01 22:33:05] -  0 ----- everything else next - for-each
+[2017-01-01 22:33:05] -  0 ----- profile next - for-each
+[2017-01-01 22:33:05] - NOIDEA - topic 1351253108259213
+[2017-01-01 22:33:05] - Great to meet you, KLAUS-M  - answers
