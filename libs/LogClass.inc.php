@@ -2,27 +2,20 @@
 
 class FileLogger {
         
-    protected $fileHandle = NULL;
-    public $dontlog = false;
+    protected $fileHandle = NULL;    
         
     public function __construct( $logfile ) {
         if ( $this->fileHandle == NULL ) {
-            if ( $this->dontlog === false ) $this->openLogFile( $logfile );
+            $this->openLogFile( $logfile );
         }
     }
         
     public function __destruct() {
-        if ( $this->dontlog === false ) $this->closeLogFile();
+        $this->closeLogFile();
     }
 
     public function log( $message, $messagetype, $user_id = null ) {
-            /*
-            if ( $this->fileHandle == NULL ) {
-                throw new FileLoggerException('Logfile is not opened.');
-            }
-            */
-            
-            if ( $this->dontlog === false ) $this->writeToLogFile( "[".date( "Y-m-d H:i:s", time())."] - " . $message . " - " . $messagetype );
+        $this->writeToLogFile( "[".date( "Y-m-d H:i:s", time())."] - " . $message . " - " . $messagetype );
     }
         
     private function writeToLogFile( $message ) {

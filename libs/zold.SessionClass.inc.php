@@ -17,8 +17,7 @@ class Session {
    public function setSession( $key, $value, $log = true ) {
       $this->session[$key] = $value;
       if ( $this->config->debug == true && $log === true && $value !== "" ) $this->log->log( "setSession $key = |".$value."|", "session" );
-      return true;
-      
+      return true;  
    }
 
    public function getSession( $key, $log = true ) {

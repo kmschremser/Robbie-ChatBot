@@ -1,0 +1,18 @@
+// based on 
+// http://blog.adnansiddiqi.me/develop-your-first-facebook-messenger-bot-in-php/
+// alternative https://github.com/Program-O/Program-O
+// https://www.producthunt.com/posts/init-ai-2
+// https://docs.api.ai/#section-cards
+
+// https://github.com/gehaxelt/PHP-Logger-Class/blob/master/tests/index.php
+
+// https://developers.facebook.com/apps/245593865870595/messenger/settings/
+
+// example
+// https://docs.api.ai/docs/rich-messages#card
+
+// http://www.providesupport.com/blog/customer-service-cheat-sheet-for-live-chat-support-operators-with-examples-of-responses/
+
+TOPIC
+Do you know something about <object> --> research / request / depending on topic
+
